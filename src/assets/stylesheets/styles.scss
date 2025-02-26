@@ -1,5 +1,13 @@
-// Tailwind CSS Imports
+// Required Imports
 @import 'tailwindcss';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
-// Utility Imports
+// Website Style Imports
 @import "typography";
+@import "grid";
+
+// Main Styles
+body {
+    background-color: #fffff8;
+    padding-left: 10%;
+}
